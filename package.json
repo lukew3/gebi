@@ -1,0 +1,20 @@
+{
+  "name": "gebi",
+  "version": "1.0.0",
+  "description": "Tiny js package to substitute document.getElementById",
+  "main": "index.js",
+  "scripts": {
+    "test": ""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lukew3/gebi.git"
+  },
+  "keywords": [],
+  "author": "Luke Weiler",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lukew3/gebi/issues"
+  },
+  "homepage": "https://github.com/lukew3/gebi#readme"
+}
